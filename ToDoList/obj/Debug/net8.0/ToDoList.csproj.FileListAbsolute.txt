@@ -12,3 +12,4 @@
 /Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/ToDoList.pdb
 /Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/ToDoList.genruntimeconfig.cache
 /Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/ref/ToDoList.dll
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/ToDoList.sourcelink.json
