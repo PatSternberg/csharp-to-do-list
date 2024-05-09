@@ -1,0 +1,14 @@
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/bin/Debug/net8.0/ToDoList
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/bin/Debug/net8.0/ToDoList.deps.json
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/bin/Debug/net8.0/ToDoList.runtimeconfig.json
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/bin/Debug/net8.0/ToDoList.dll
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/bin/Debug/net8.0/ToDoList.pdb
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfoInputs.cache
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfo.cs
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/ToDoList.dll
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/refint/ToDoList.dll
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/ToDoList.pdb
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/ToDoList.genruntimeconfig.cache
+/Users/Patrick/Projects/Learning/UltimateCSharpMasterclass/to-do-list/ToDoList/obj/Debug/net8.0/ref/ToDoList.dll
